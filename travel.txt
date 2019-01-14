@@ -2,6 +2,7 @@ Packing List
 ----------------
 --Shoes
 --umbrella
+--camera
 Picnic
 ---------------
 --Bread
